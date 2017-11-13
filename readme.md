@@ -1,6 +1,6 @@
 # Laravel-ecommerce
 
-A simple gocery ecommerce website in laravel framework.
+A simple ecommerce based grocery website in laravel framework.
 
 # features :
 - Multi-auth facility
